@@ -38,6 +38,7 @@ const config: CSpellSettings = {
     ...getPackageNames(),
     // English
     'autoincrement',
+    'opencode',
     'beeman',
     'checkpointing',
     'ellipsify',
